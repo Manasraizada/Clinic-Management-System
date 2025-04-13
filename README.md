@@ -25,7 +25,7 @@ A responsive and feature-rich **Clinic Management System** built using **HTML, C
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/clinic-management-system.git
+git clone https://github.com/Manasraizada/Clinic-Management-System.git
 cd clinic-management-system
 ```
 2. **Setup Firebase**
