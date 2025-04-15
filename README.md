@@ -33,10 +33,10 @@ A responsive web-based **Clinic Management System** built using **HTML**, **CSS*
 ## How to Run Locally
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/clinic-management-system.git
+   git clone https://github.com/Manasraizada/Clinic-Management-System.git
    ```
    ```bash
-   cd clinic-management-system
+   cd Clinic-Management-System
    ```
 2. Open index.html in a browser or use Live Server.
 3. Make sure to replace the Firebase config with your own project credentials.
