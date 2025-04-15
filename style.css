@@ -1,1 +1,25 @@
-
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(90deg,#ffffff,#007bff);
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .container {
+    background:linear-gradient(45deg,#007bff,#fff);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    display: inline-block;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 15px;
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
